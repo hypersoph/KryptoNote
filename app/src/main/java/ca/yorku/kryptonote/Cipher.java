@@ -1,3 +1,5 @@
+//Student Name: Sophia Nguyen
+//This project was done individually
 package ca.yorku.kryptonote;
 
 public class Cipher
